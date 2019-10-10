@@ -62,7 +62,6 @@ typings/
 
 
 .cache
-dist
 example/cypress/videos
 example/cypress/screenshots
 
